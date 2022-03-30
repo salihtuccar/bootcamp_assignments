@@ -4,7 +4,7 @@
 
 
 def not_string(word):
-    if word[:3] == 'not' :
+    if word.startswith("not") :
         return word
     else:
         return "not " + word
