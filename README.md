@@ -1,2 +1,2 @@
-# bootcamp_assignments
-fizzbuzz
+Some bootcamp assignments's solutions.
+
